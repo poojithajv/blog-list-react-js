@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.list-item {
+  list-style-type: none;
+  width: 100%;
+  font-family: 'Roboto';
+}
+.title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title-heading {
+  color: #12022f;
+  font-size: 20px;
+}
+.date {
+  color: #9aa5b1;
+  font-size: 14px;
+}
+.desc {
+  color: #9aa5b1;
+  font-size: 18px;
+}
+.separator {
+  height: 1px;
+}
